@@ -1,0 +1,41 @@
+body{
+    background-color:#eeedf3
+}
+boxes {
+  flex-flow: column;
+  border: 5px solid;
+  width: 900px;
+  height: 200px;
+  text-align: center;
+  /* font-size: 30px; */
+}
+
+.center {
+  flex-flow: row;
+  border: 5px solid;
+  /* width: 200px;
+  height: 100px; */
+  text-align: center;
+  font-size: 60px;
+}
+section{
+    /* flex-flow: row; */
+    border: 5px solid;
+    /* width: 800px; */
+    height: 250px;
+    text-align: left;
+    font-size: 18px;
+    /* display: flex; */
+}
+.ProfileContanier {
+    display: flex;
+    justify-content: space-evenly;
+}
+img {
+width: 200px;
+height: 200px;
+}
+/* Section 2 */
+
+.second_Contanier
+
