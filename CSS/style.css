@@ -1,5 +1,5 @@
-body{
-    background-color:#eeedf3
+body {
+  background-color: #58a399;
 }
 boxes {
   flex-flow: column;
@@ -18,24 +18,42 @@ boxes {
   text-align: center;
   font-size: 60px;
 }
-section{
-    /* flex-flow: row; */
-    border: 5px solid;
-    /* width: 800px; */
-    height: 250px;
-    text-align: left;
-    font-size: 18px;
-    /* display: flex; */
+section {
+  /* flex-flow: row; */
+  border: 5px solid;
+  /* width: 800px; */
+  height: 250px;
+  text-align: left;
+  font-size: 18px;
+  /* display: flex; */
 }
 .ProfileContanier {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 img {
-width: 200px;
-height: 200px;
-}
-/* Section 2 */
+  width: 200px;
+  height: 200px;
+.class{
 
-.second_Contanier
+  flex-flow: column;
+  border: 5px solid;
+  width: 900px;
+  height: 200px;
+  text-align: center;
+
+}
+
+}
+#section {
+  flex-flow: column;
+  border: 5px solid;
+  text-align:left
+  width: 900px;
+  height: 200px;
+  margin-: 100%;
+ 
+
+}
+
 
